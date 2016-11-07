@@ -1,0 +1,10 @@
+{
+  "name": "productapp",
+  "description": "productapp",
+  "main": "index.js",
+  "authors": [
+    "Rahul"
+  ],
+  "license": "ISC",
+  "homepage": ""
+}
